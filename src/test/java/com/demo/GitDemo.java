@@ -16,5 +16,20 @@ public class GitDemo {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void methodD() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	private void methodE() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	private void methodF() {
+		// TODO Auto-generated method stub
+		
+	}
 
 }
